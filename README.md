@@ -362,11 +362,8 @@ rm -rf logs/*
 ```
 ---
 
-## 📧 Contato
 
-**gabriel-loscano | luuiza.empresarial@gmail.com**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel-loscano-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-loscano/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel-loscano-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-loscano-663460186/)
 [![GitHub](https://img.shields.io/badge/GitHub-DevLoscano-181717?style=flat&logo=github)](https://github.com/DevLoscano)
 
 ---
@@ -374,3 +371,4 @@ rm -rf logs/*
 ## 
 
 ---
+
