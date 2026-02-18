@@ -1,6 +1,5 @@
-# 🌤️ Pipeline ETL - Dados Climáticos de São Paulo
+<img width="1085" height="438" alt="image" src="https://github.com/user-attachments/assets/bdb36b1e-08af-46cb-8ebb-558beab1d8c9" /># 🌤️ Pipeline ETL - Dados Climáticos de São Paulo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel-loscano-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-loscano/)
 
 
 
@@ -12,7 +11,7 @@
 
 | 📚 Recurso | 🔗 Link |
 |-----------|--------|
-| 💼 **LinkedIn** | [@gabriel-loscano](https://www.linkedin.com/in/gabriel-loscano/) |
+| 💼 **LinkedIn** | [@gabriel-loscano](https://www.linkedin.com/in/gabriel-loscano-663460186/) |
 
 ---
 
@@ -363,7 +362,6 @@ rm -rf logs/*
 ---
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel-loscano-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-loscano-663460186/)
 [![GitHub](https://img.shields.io/badge/GitHub-DevLoscano-181717?style=flat&logo=github)](https://github.com/DevLoscano)
 
 ---
@@ -371,4 +369,5 @@ rm -rf logs/*
 ## 
 
 ---
+
 
