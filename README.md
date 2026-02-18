@@ -1,4 +1,4 @@
-<img width="1085" height="438" alt="image" src="https://github.com/user-attachments/assets/bdb36b1e-08af-46cb-8ebb-558beab1d8c9" /># 🌤️ Pipeline ETL - Dados Climáticos de São Paulo
+# 🌤️ Pipeline ETL - Dados Climáticos de São Paulo
 
 
 
@@ -41,8 +41,7 @@ O pipeline coleta dados meteorológicos da API OpenWeatherMap a cada hora, trans
 
 ## 🏗️ Arquitetura do Pipeline
 
-<img src='arquitetura_de_dados_draw.png' alt='Arquitetura do Pipeline ETL'>
-
+<img width="1085" height="438" alt="image" src="https://github.com/user-attachments/assets/bdb36b1e-08af-46cb-8ebb-558beab1d8c9" />
 ---
 
 ## 🛠️ Stack Tecnológica
@@ -369,5 +368,6 @@ rm -rf logs/*
 ## 
 
 ---
+
 
 
