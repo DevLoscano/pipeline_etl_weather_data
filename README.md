@@ -47,7 +47,7 @@ O pipeline coleta dados meteorológicos da API OpenWeatherMap a cada hora, trans
 ## 🛠️ Stack Tecnológica
 
 ### Core
-- **Python 3.14+** - Linguagem principal
+- **Python 3.10+** - Linguagem principal
 - **Apache Airflow 3.1.7** - Orquestração do pipeline
 - **PostgreSQL 14** - Banco de dados relacional
 - **Docker & Docker Compose** - Containerização
@@ -148,7 +148,7 @@ Abra seu navegador em: **http://localhost:8080**
 
 ### 2️⃣ Ative a DAG
 
-1. Na interface do Airflow, localize a DAG chamada **`youtube_weather_pipeline`**
+1. Na interface do Airflow, localize a DAG chamada **`weather_pipeline`**
 2. Clique no botão de **Acionar/Trigger** para ativá-la
 3. A DAG está configurada para executar **a cada 1 hora**
 
@@ -255,7 +255,7 @@ df.to_sql(
 
 ```python
 @dag(
-    dag_id='youtube_weather_pipeline',
+    dag_id='weather_pipeline',
     schedule='0 */1 * * *',  # Executa a cada 1 hora
     start_date=datetime(2026, 2, 7),
     catchup=False,  # Não executa datas passadas
@@ -368,6 +368,7 @@ rm -rf logs/*
 ## 
 
 ---
+
 
 
 
